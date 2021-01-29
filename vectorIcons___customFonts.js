@@ -32,3 +32,4 @@ how to install custom fonts
    go to build phases , under copy bundle resources
    add fonts,
    run the project
+/****************************************************************************************/
